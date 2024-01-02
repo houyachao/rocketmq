@@ -27,6 +27,7 @@ import java.util.Map;
 /**
  * Base interface for MQ management
  */
+// 元数据管理接口
 public interface MQAdmin {
     /**
      * Creates a topic
